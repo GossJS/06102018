@@ -1,5 +1,7 @@
 # 06102018
 
+см. bind2019 и bind
+
 в новой папке
 
 ```git clone https://github.com/GossJS/06102018.git .```
